@@ -41,7 +41,9 @@ I foresee two audiences for this. The first is newer devs looking to work on the
 
 ### Possible pitfalls
 
-The first thing that comes to mind is there will probably be some minimal costs involved. What I don't want to have happen, is for those costs to be passed along to the community. Initially I would probably shoulder the cost for DNS registration and whatever would be required for a community to function. Github is free, however the other platforms used might have a fee involved. 
+The first thing that comes to mind is there will probably be some minimal costs involved. What I don't want to have happen, is for those costs to be passed along to the community. Initially I would probably have to shoulder the cost for DNS registration and whatever would be required for a community to function. Github is free, however the other platforms used might have a fee involved. However it ended up working, I would want to make sure that people without the money to spend would still have access - nothing like Patreon or a premium subscription model. The free tier is the whole thing. 
 
 The second thing that comes up is how to attract the people with the experience. I need to figure out how to market this whole thing if it makes it to launch. 
+
+I don't know if this could be big enough to support languages other than english. I don't have direct experience, but it has to be frustrating for people who's first language isn't english to have to learn it in order to be a part of the programming world. 
 
