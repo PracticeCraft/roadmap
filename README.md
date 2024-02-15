@@ -4,7 +4,7 @@
 
 Throughout my coding journey I've come across a ton of resources for people that are brand new and want to learn. Those usually cover the basics but leave out a lot of the deep details and the realities of building projects - how to work past problems, how to break things up, how to work on a larger codebase or a codebase others are also working on. 
 
-I've also come across a ton of reference style materials and "getting started" guides that are geared toward more expereienced programmers and assume a deeper knowledge of the domain. These are great once you have your feet under you as they allow for faster location and parsing of the information you need. 
+I've also come across a ton of reference style materials and "getting started" guides that are geared toward more experienced programmers and assume a deeper knowledge of the domain. These are great once you have your feet under you as they allow for faster location and parsing of the information you need. 
 
 What appears to be missing is the stuff in the middle. A novice programmer that has been doing tutorials is spoon fed what they need to know a step at a time. It's up to the teacher to set the pace and decide when and how a project comes together. When the student gets through the project and wants to start making things on their own, they get stuck. An empty editor screen is intimidating, and suddenly the scope of what they want to do overwhelms them. 
 
